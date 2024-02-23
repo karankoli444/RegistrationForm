@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/karankoli444/RegistrationForm.git/static/css/main.9b8cf9cb.css",
+    "main.js": "/karankoli444/RegistrationForm.git/static/js/main.29ebe350.js",
+    "index.html": "/karankoli444/RegistrationForm.git/index.html",
+    "main.9b8cf9cb.css.map": "/karankoli444/RegistrationForm.git/static/css/main.9b8cf9cb.css.map",
+    "main.29ebe350.js.map": "/karankoli444/RegistrationForm.git/static/js/main.29ebe350.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b8cf9cb.css",
+    "static/js/main.29ebe350.js"
+  ]
+}
